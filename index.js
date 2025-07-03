@@ -17,6 +17,7 @@ app.use(
       "https://tarang-staging.vercel.app",
       "https://tarangfest.com",
       "https://www.tarangfest.com",
+      "https://tarang-web-8xgb.vercel.app"
     ],
     credentials: true,
     exposedHeaders: ["set-cookie"],
